@@ -1,4 +1,4 @@
-# VTU Creator
+# VTU Portal Creator
 VTU Creator is an open source project founded by Lajela Technologies, a multi-language, easy-to-use PHP built VTU Content Management System (VTU-CMS) that enables you to create a full functional and automated and instant digital delivery online recharge portal without basic knowledge of programming Languages. Create Airtime Top-Up, Data Subscription, Electricity/Water/Gas Bill, Bulk SMS, Money transfer and Voucher/Recharge Card Printing portal and be connected to any service provider, API and hosted SIM Card.
 
 ## VTU CREATOR FEATURES
