@@ -50,3 +50,5 @@ Go to yourdomain.com/installation
 Follow the instruction to install on your Server
 
 ### LICENSE AGREEMENT www.provtu.lajala.com/terms.php
+
+## Sponsor this Project https://paystack.com/pay/vtucreator
