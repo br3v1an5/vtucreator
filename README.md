@@ -50,5 +50,3 @@ Go to yourdomain.com/installation
 Follow the instruction to install on your Server
 
 ### [LICENSE AGREEMENT](https://vtucreator.com/terms.php)
-
-## [Sponsor this Project](https://paystack.com/pay/vtucreator)
